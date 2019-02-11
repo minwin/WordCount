@@ -1,0 +1,6 @@
+I wrote this to create histograms of keywords from job postings. 
+
+This program will parse keywords from txt files.
+
+Code uses a blacklist to exclude the most common words in the english language from the histogram.
+
